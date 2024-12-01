@@ -10,8 +10,8 @@
   <a href="https://github.com/clashhsalc">
     <img src="https://img.shields.io/badge/GitHub-@clashhsalc-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://monkeytype.com/profile/kurro">
-    <img src="https://img.shields.io/badge/MonkeyType-@kurro-FF7518?style=for-the-badge&logo=monkeytype&logoColor=white" alt="MonkeyType" />
+  <a href="https://monkeytype.com/profile/aryanmtype">
+    <img src="https://img.shields.io/badge/MonkeyType-@aryanmtype-FF7518?style=for-the-badge&logo=monkeytype&logoColor=white" alt="MonkeyType" />
   </a>
   <a href="https://discord.com/users/616914110113644544">
     <img src="https://img.shields.io/badge/Discord-@hsalc-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
